@@ -33,6 +33,9 @@ try:
 except Exception as e:
     # Print the traceback of any error that occurs
     traceback.print_exc()
+    
+    # Wait for the user to press Enter before exiting
+input('\nPress Enter to exit...')
 
 ###########################################
 ## Created by MiTechMess.com
