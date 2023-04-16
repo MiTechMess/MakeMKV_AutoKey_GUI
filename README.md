@@ -40,6 +40,12 @@ Sometimes the keys are not posted by the owner of MakeMKV for a few days.
 
 If your key isn't updating, try the update app again tomorrow or in a few days.
 
+# I GOT THIS WARNING!?
+![warning](images/warning.png?raw=true "warning")
+Don't worry this is because its not signed, i don't know how to do that. 
+Click "Run Anyway", again all the source is on GitHub so you can check the source for anything
+that shouldn't be. 
+
 # WHY IS THE FILE SO BIG!
 I've never made an app in my life, this was my first try.
 I think it's because i've included everything that Python needs without you needing to install Python.
