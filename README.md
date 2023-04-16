@@ -13,7 +13,7 @@ You can download it from the release section on the right
 
 Or you can download it from a direct link from GitHub here
 
-[Download](https://github.com/MiTechMess/MakeMKV_AutoKey_GUI/releases/download/v1.0.0/MakeMKV.AutoKey.GUI.exe)
+[Download](https://github.com/MiTechMess/MakeMKV_AutoKey_GUI/releases/download/v1.0.0/MakeMKV_AutoKey_GUI.exe)
 
 # Requirements
 You shouln't need anything to run this on Windows, you should have .NET runtimes pre installed.
