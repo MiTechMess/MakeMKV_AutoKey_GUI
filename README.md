@@ -1,6 +1,6 @@
 ![logo](images/MakeMKV_AutoKey_GUI_logo.png?raw=true "logo")
 
-# ❓ Whats it for?
+# ❓ What is it for?
 This app will automatically update your MakeMKV beta key.
 The key for MakeMKV changes every month and you have to go to the website to find the new key, 
 And sometimes the keys can takes a few days to be posted, so i made this app to add the new key when its updated.
