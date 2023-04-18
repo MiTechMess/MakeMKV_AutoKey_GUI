@@ -36,11 +36,11 @@ Partial Class Form1
         ' Label1
         ' 
         Label1.AutoSize = True
-        Label1.Location = New Point(63, 192)
+        Label1.Location = New Point(77, 192)
         Label1.Name = "Label1"
-        Label1.Size = New Size(194, 15)
+        Label1.Size = New Size(167, 15)
         Label1.TabIndex = 0
-        Label1.Text = "Created By MiTechMess.com (2023)" & vbCrLf
+        Label1.Text = "Created By MiTechMess (2023)" & vbCrLf
         ' 
         ' PictureBox1
         ' 

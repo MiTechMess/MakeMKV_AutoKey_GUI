@@ -58,8 +58,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="TextBox1.Text" xml:space="preserve">
-    <value>Thank you for taking a second to read the
-about page.
+    <value>Thank you for taking a second to read the about page.
 
 # Whats it for?
 This app will automatically update your MakeMKV beta key.
