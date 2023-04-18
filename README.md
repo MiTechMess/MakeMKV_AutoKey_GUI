@@ -25,6 +25,8 @@ https://www.microsoft.com/en-gb/download/details.aspx?id=48145
 If you decide to use the standalone-python script you 
 will need Python 3.10 installed and your path set.
 
+🌐[How to set your PATH on Windows](https://youtu.be/sWGrnYwQiwA)
+
 # ℹ️ Credit
 All credit goes to the person behind MakeMKV, 
 Im just lazy and wanted a easy way to add the new key. 
