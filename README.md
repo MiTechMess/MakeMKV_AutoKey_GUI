@@ -1,8 +1,7 @@
 ![logo](images/MakeMKV_AutoKey_GUI_logo.png?raw=true "logo")
 
-# Some users are reporting issues.
+# ❗Some users are reporting issues.
 If you are having issues with this app please let me know, open an issue on here and give as much info as you can.
-I have checked it still runs and so far its okay for me, but a few people say it doesn't work at all but don't give much info as to what it does.
 
 # ❓ What is it for?
 This app will automatically update your MakeMKV beta key.
