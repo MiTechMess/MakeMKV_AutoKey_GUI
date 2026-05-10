@@ -1,3 +1,6 @@
+# ❗This repo is moving and will soon be archived!
+
+
 ![logo](images/MakeMKV_AutoKey_GUI_logo.png?raw=true "logo")
 
 # ❗Some users are reporting issues.
